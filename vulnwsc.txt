@@ -1,6 +1,7 @@
 ADSL RT2860
 Archer A2 5.0
 Archer A5 4.0
+Archer C2 1.0
 Archer C2 3.0
 Archer C5 4.0
 Archer C20 1.0
@@ -12,6 +13,7 @@ Archer C50 4.0
 Archer C50 5.0
 Archer MR200 1.0
 Archer MR200 5.0
+B-LINK 123456
 DAP-1360 DAP-1360
 DWR-921C3 WBR-0001
 D-Link Router DIR-605L
@@ -19,10 +21,12 @@ D-Link Router DIR-615H1
 D-Link Router DIR-809
 Home Internet Center KEENETIC series
 Home Internet Center Keenetic series
+Huawei Wireless Access Point RT2860
 JWNR2000v2(Wireless AP) JWNR2000v2
 Keenetic Keenetic series
 Linksys Wireless Access Point EA7500
 Linksys Wireless Router WRT110
+Netgear AP EV-2012-08-04
 NETGEAR Wireless Access Point R6220
 N/A EV-2010-09-20
 Ralink Wireless Access Point RT2860
@@ -31,11 +35,17 @@ RTL8196E
 RTL8xxx EV-2009-02-06
 RTL8xxx EV-2010-09-20
 RTL8xxx RTK_ECOS
+RT-G32 1234
+Sitecom Wireless Router 300N X2 300N
 Tenda 123456
+Timo RA300R4 Timo RA300R4
 TD-W8901N RT2860
 TD-W8951ND RT2860
 TD-W8968 2.0
+TD-W9960 1.0
+TD-W9960v 1.0
 TL-MR3020 3.0
+TL-MR3420 5.0
 TL-MR6400 3.0
 TL-MR6400 4.0
 TL-WR840N 4.0
@@ -54,9 +64,12 @@ TL-WR1042N EV-2010-09-20
 Trendnet router TEW-625br
 Trendnet router TEW-651br
 VMG8623-T50A RT2860
+Wi-Fi Protected Setup Router RT-AC1200G+
 Wi-Fi Protected Setup Router RT-N12
 Wi-Fi Protected Setup Router RT-N12D1
 Wi-Fi Protected Setup Router RT-N12VP
+Wireless Access Point .
+Wireless Router 123456
 Wireless Router EV-2009-02-06
 Wireless Router RTL8xxx EV-2009-02-06
 Wireless WPS Router <#ZVMODELVZ#>
@@ -64,15 +77,20 @@ Wireless WPS Router RT-N10E
 Wireless WPS Router RT-N10LX
 Wireless WPS Router RT-N12E
 Wireless WPS Router RT-N12LX
+WPS Router DSL-N16
 WPS Router DSL-N17U
+WPS Router DSL-AC52U
 WPS Router RT-AC750
 WPS Router RT-AC1200
 WPS Router RT-AC1200_V2
 WPS Router RT-AC1750
 WPS Router RT-AC51U
+WPS Router RT-AC52U
+WPS Router RT-AC52U_B1
 WPS Router RT-AC53
 WPS Router RT-N11P
 WPS Router RT-N12E
+WPS Router RT-N12E_B1
 WPS Router RT-N12 VP
 WPS Router RT-N12+
 WPS Router RT-N14U
@@ -80,21 +98,3 @@ WPS Router RT-N56U
 WPS Router RT-N300
 ZyXEL NBG-416N AP Router
 ZyXEL NBG-418N AP Router
-WPS Router DSL-N16
-Netgear AP EV-2012-08-04
-B-LINK 123456
-Archer C2 1.0
-WPS Router RT-AC52U_B1
-Wi-Fi Protected Setup Router RT-AC1200G+
-Wireless Access Point .
-Huawei Wireless Access Point RT2860
-Sitecom Wireless Router 300N X2 300N
-Timo RA300R4 Timo RA300R4
-WPS Router RT-N12E_B1
-TL-MR3420 5.0
-RT-G32 1234
-WPS Router DSL-AC52U
-TD-W9960v 1.0
-WPS Router RT-AC52U
-Wireless Router 123456
-TD-W9960 1.0
