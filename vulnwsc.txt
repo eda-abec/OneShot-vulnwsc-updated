@@ -80,3 +80,13 @@ WPS Router RT-N56U
 WPS Router RT-N300
 ZyXEL NBG-416N AP Router
 ZyXEL NBG-418N AP Router
+WPS Router DSL-N16
+Netgear AP EV-2012-08-04
+B-LINK 123456
+Archer C2 1.0
+WPS Router RT-AC52U_B1
+Wi-Fi Protected Setup Router RT-AC1200G+
+Wireless Access Point .
+Huawei Wireless Access Point RT2860
+Sitecom Wireless Router 300N X2 300N
+Timo RA300R4 Timo RA300R4
