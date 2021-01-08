@@ -90,3 +90,11 @@ Wireless Access Point .
 Huawei Wireless Access Point RT2860
 Sitecom Wireless Router 300N X2 300N
 Timo RA300R4 Timo RA300R4
+WPS Router RT-N12E_B1
+TL-MR3420 5.0
+RT-G32 1234
+WPS Router DSL-AC52U
+TD-W9960v 1.0
+WPS Router RT-AC52U
+Wireless Router 123456
+TD-W9960 1.0
