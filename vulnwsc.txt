@@ -29,10 +29,8 @@ Linksys Wireless Router WRT110
 Netgear AP EV-2012-08-04
 NETGEAR Wireless Access Point R6220
 N/A EV-2010-09-20
-Ralink Wireless Access Point RT2860
 Ralink Wireless Access Point WR-AC1210
 RTL8196E
-RTL8xxx EV-2009-02-06
 RTL8xxx EV-2010-09-20
 RTL8xxx RTK_ECOS
 RT-G32 1234
