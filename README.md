@@ -8,5 +8,3 @@ You can download the list here: https://github.com/eda-abec/OneShot-vulnwsc-upda
 Or use this QR code:
 
 ![QR](qr.gif)
-
-There is also a [branch](https://github.com/eda-abec/OneShot-vulnwsc-updated/tree/without-issue) with problematic devices removed.
