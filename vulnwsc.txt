@@ -19,6 +19,7 @@ DWR-921C3 WBR-0001
 D-Link Router DIR-605L
 D-Link Router DIR-615H1
 D-Link Router DIR-809
+EV-2009-02-06
 Home Internet Center KEENETIC series
 Home Internet Center Keenetic series
 Huawei Wireless Access Point RT2860
@@ -70,7 +71,6 @@ Wi-Fi Protected Setup Router RT-N12D1
 Wi-Fi Protected Setup Router RT-N12VP
 Wireless Access Point .
 Wireless Router 123456
-Wireless Router EV-2009-02-06
 Wireless Router RTL8xxx EV-2009-02-06
 Wireless WPS Router <#ZVMODELVZ#>
 Wireless WPS Router RT-N10E
@@ -84,6 +84,7 @@ WPS Router RT-AC750
 WPS Router RT-AC1200
 WPS Router RT-AC1200_V2
 WPS Router RT-AC1750
+WPS Router RT-AC1750U
 WPS Router RT-AC51U
 WPS Router RT-AC52U
 WPS Router RT-AC52U_B1
