@@ -1,4 +1,4 @@
-# OneShot-vulnwsc-updated
+# OneShot vulnwsc.txt Updated
 A list of vulnerable devices, used for OneShot.
 
 You can download the list here: https://github.com/eda-abec/OneShot-vulnwsc-updated/raw/main/vulnwsc.txt
