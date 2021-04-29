@@ -12,13 +12,15 @@ Archer C50 3.0
 Archer C50 4.0
 Archer C50 5.0
 Archer MR200 1.0
+Archer MR200 4.0
 Archer MR200 5.0
+Archer VR300 1.20
 Archer VR400 3.0
 B-LINK 123456
 DAP-1360 DAP-1360
-DWR-921C3 WBR-0001
 DIR-819 v1.0.1
 DIR-842 DIR-842
+DWR-921C3 WBR-0001
 D-Link Router DIR-605L
 D-Link Router DIR-615H1
 D-Link Router DIR-809
@@ -42,13 +44,16 @@ RTL8xxx EV-2010-09-20
 RTL8xxx RTK_ECOS
 RT-G32 1234
 Sitecom Wireless Router 300N X2 300N
+Smart Router R3 RT2860
 Tenda 123456
 Timo RA300R4 Timo RA300R4
+TD-W8151N RT2860
 TD-W8901N RT2860
 TD-W8951ND RT2860
-TD-W8968 2.0
 TD-W9960 1.0
+TD-W9960 1.20
 TD-W9960v 1.0
+TD-W8968 2.0
 TL-MR3020 3.0
 TL-MR3420 5.0
 TL-MR6400 3.0
@@ -70,6 +75,7 @@ Trendnet router TEW-625br
 Trendnet router TEW-651br
 VMG8623-T50A RT2860
 Wi-Fi Protected Setup Router RT-AC1200G+
+Wi-Fi Protected Setup Router RT-N10U
 Wi-Fi Protected Setup Router RT-N12
 Wi-Fi Protected Setup Router RT-N12D1
 Wi-Fi Protected Setup Router RT-N12VP
@@ -81,10 +87,11 @@ Wireless WPS Router RT-N10E
 Wireless WPS Router RT-N10LX
 Wireless WPS Router RT-N12E
 Wireless WPS Router RT-N12LX
-WPS Router DSL-N16
-WPS Router DSL-N17U
 WPS Router DSL-AC51
 WPS Router DSL-AC52U
+WPS Router DSL-AC55U
+WPS Router DSL-N16
+WPS Router DSL-N17U
 WPS Router RT-AC750
 WPS Router RT-AC1200
 WPS Router RT-AC1200_V2
@@ -95,6 +102,7 @@ WPS Router RT-AC51U
 WPS Router RT-AC52U
 WPS Router RT-AC52U_B1
 WPS Router RT-AC53
+WPS Router RT-AC65P
 WPS Router RT-N11P
 WPS Router RT-N12E
 WPS Router RT-N12E_B1
@@ -105,5 +113,5 @@ WPS Router RT-N56U
 WPS Router RT-N300
 ZyXEL NBG-416N AP Router
 ZyXEL NBG-418N AP Router
-ZyXEL Wireless AP Router NBG-417N
 ZyXEL NBG-418N AP Router NBG-418N
+ZyXEL Wireless AP Router NBG-417N
