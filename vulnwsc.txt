@@ -17,14 +17,17 @@ Archer MR200 5.0
 Archer VR300 1.20
 Archer VR400 3.0
 B-LINK 123456
+Belkin AP EV-2012-09-01
 DAP-1360 DAP-1360
 DIR-819 v1.0.1
 DIR-842 DIR-842
 DWR-921C3 WBR-0001
+D-Link N Router GO-RT-N150
 D-Link Router DIR-605L
 D-Link Router DIR-615H1
 D-Link Router DIR-809
 Edimax Edimax
+Enhanced Wireless Router F6D4230-4 v1
 EV-2009-02-06
 Home Internet Center KEENETIC series
 Home Internet Center Keenetic series
@@ -39,6 +42,7 @@ N/A EV-2010-09-20
 Ralink Wireless Access Point RT2860
 Ralink Wireless Access Point WR-AC1210
 RTL8196E
+RTL8186 EV-2006-07-27
 RTL8xxx EV-2009-02-06
 RTL8xxx EV-2010-09-20
 RTL8xxx RTK_ECOS
@@ -81,6 +85,7 @@ Wi-Fi Protected Setup Router RT-N12D1
 Wi-Fi Protected Setup Router RT-N12VP
 Wireless Access Point .
 Wireless Router 123456
+Wireless Router EV-2009-02-06
 Wireless Router RTL8xxx EV-2009-02-06
 Wireless WPS Router <#ZVMODELVZ#>
 Wireless WPS Router RT-N10E
@@ -93,6 +98,7 @@ WPS Router DSL-AC55U
 WPS Router DSL-N16
 WPS Router DSL-N17U
 WPS Router RT-AC750
+WPS Router RT-AC750L
 WPS Router RT-AC1200
 WPS Router RT-AC1200_V2
 WPS Router RT-AC1750
@@ -102,6 +108,7 @@ WPS Router RT-AC51U
 WPS Router RT-AC52U
 WPS Router RT-AC52U_B1
 WPS Router RT-AC53
+WPS Router RT-AC57U
 WPS Router RT-AC65P
 WPS Router RT-N11P
 WPS Router RT-N12E
@@ -110,7 +117,9 @@ WPS Router RT-N12 VP
 WPS Router RT-N12+
 WPS Router RT-N14U
 WPS Router RT-N56U
+WPS Router RT-N56UB1
 WPS Router RT-N300
+WN-200R WN-200R
 ZyXEL NBG-416N AP Router
 ZyXEL NBG-418N AP Router
 ZyXEL NBG-418N AP Router NBG-418N
