@@ -1,4 +1,5 @@
 ADSL RT2860
+ADSL Router EV-2006-07-27
 Archer A2 5.0
 Archer A5 4.0
 Archer C2 1.0
@@ -28,6 +29,7 @@ D-Link Router DIR-615H1
 D-Link Router DIR-809
 Edimax Edimax
 Enhanced Wireless Router F6D4230-4 v1
+EnGenius wireless AP Router EnGenius
 EV-2009-02-06
 Home Internet Center KEENETIC series
 Home Internet Center Keenetic series
@@ -121,6 +123,7 @@ WPS Router RT-N56UB1
 WPS Router RT-N300
 WN-200R WN-200R
 ZyXEL NBG-416N AP Router
+ZyXEL NBG-416N AP Router NBG-416N
 ZyXEL NBG-418N AP Router
 ZyXEL NBG-418N AP Router NBG-418N
 ZyXEL Wireless AP Router NBG-417N
