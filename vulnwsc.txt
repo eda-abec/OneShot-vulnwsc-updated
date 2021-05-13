@@ -1,5 +1,6 @@
 ADSL RT2860
 ADSL Router EV-2006-07-27
+AIR3G WSC Wireless Access Point AIR3G WSC Device
 Archer A2 5.0
 Archer A5 4.0
 Archer C2 1.0
@@ -91,6 +92,7 @@ Wireless WPS Router RT-N10E
 Wireless WPS Router RT-N10LX
 Wireless WPS Router RT-N12E
 Wireless WPS Router RT-N12LX
+WPS Router (5G) RT-N65U
 WPS Router DSL-AC51
 WPS Router DSL-AC52U
 WPS Router DSL-AC55U
@@ -118,6 +120,7 @@ WPS Router RT-N14U
 WPS Router RT-N56U
 WPS Router RT-N56UB1
 WPS Router RT-N300
+WAP3205/WAP3205 WAP3205
 WN-200R WN-200R
 ZyXEL NBG-416N AP Router
 ZyXEL NBG-416N AP Router NBG-416N
