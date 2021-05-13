@@ -96,6 +96,7 @@ Wireless WPS Router RT-N10E
 Wireless WPS Router RT-N10LX
 Wireless WPS Router RT-N12E
 Wireless WPS Router RT-N12LX
+WPS Router (5G) RT-N65U
 WPS Router DSL-AC51
 WPS Router DSL-AC52U
 WPS Router DSL-AC55U
